@@ -1,0 +1,41 @@
+Table of Contents for Disclosure Rule
+
+[Legal Notices](https://github.com/HumanDynamics/FIPS/wiki/Disclosure-Rule#legal-notices)
+
+[Section 1. Definitions](https://github.com/HumanDynamics/FIPS/wiki/Disclosure-Rule#section-1--definitions)
+
+[Section 2.  The Disclosure Rule](https://github.com/HumanDynamics/FIPS/wiki/Disclosure-Rule#section-2--the-disclosure-rule)
+
+[Section 3.  Preemption](https://github.com/HumanDynamics/FIPS/wiki/Disclosure-Rule#section-3--preemption)
+
+[Section 4.  Enforcement ](https://github.com/HumanDynamics/FIPS/wiki/Disclosure-Rule#section-4--enforcement)
+
+# Legal Notices
+
+**Intellectual Property:** Massachusetts Institute of Technology, © 2013. Massachusetts Institute of Technology licenses distribution and re-use of this material under Creative Commons Attribution-ShareAlike 3.0 Unported License: http://creativecommons.org/licenses/by-sa/3.0/deed.en_US, provided the text of legal notices including attributions, disclaimers and document information are unchanged and conspicuously displayed on each copy or derivative works.
+
+"MIT", "Massachusetts Institute of Technology", and its logos and seal are trademarks of the Massachusetts Institute of Technology. Except for purposes of attribution as required by our Creative Commons License, you may not use MIT’s names or logos, or any variations thereof, without prior written consent of MIT. You may not use the MIT name in any of its forms nor MIT seals or logos for promotional purposes, or in any way that deliberately or inadvertently claims, suggests, or in MIT's sole judgment gives the appearance or impression of a relationship with or endorsement by MIT.
+
+**Attributions and Disclaimer:** This work was initially concieved and has been primarily authored by Ray Campbell of RAC3.com in his capacity as MIT Human Dynamics Lab collaborator.  This work is partly based upon research supported by the Defense Advance Research Project Agency (DARPA) and Space and Naval Warfare Systems Center Pacific under Contract N66001-11-C-4006. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the Defense Advance Research project Agency (DARPA) and Space and Naval Warfare Systems Center Pacific.  This work is part of the openPDS research initiative described at the project site: http://openpds.media.mit.edu/#rules and more information about this branch of the project is available at the project blog site: http://ecitizen.tv or the research site: http://ecitizen.mit.edu 
+
+**Document Information:** Version 0.1.2; July 16, 2013; Please use the GitHub Issue Tracker function to submit questions, comments or suggestions about this work; Authoritative stable release version of the System Rules is published at the MIT Human Dynamics Lab openPDS project site: http://openpds.media.mit.edu/#rules; For more information on the "law as code and code as law" approach used with this Disclosure Rule, please see the Human Dynamocs System Rules project background and news site: http://ecitizen.mit.edu/modelrules; The current authoritative version of this Disclosure Rule draft is available at: https://github.com/HumanDynamics/FIPS
+
+# Section 1.  Definitions
+
+**“Covered Entity”** shall mean any for-profit or non-profit organization that uses Protected Personal Information in the ordinary course of business.  
+
+**“Protected Personal Information”** is individually identifiable personal information held or transmitted in electronic format by a Covered Entity and that relates to: (i) an individual’s past, present or future physical location; (ii) an individual’s purchase of any product or service from any commercial entity, whether online or by physical exchange; (iii) an individual’s access to any digital content through any electronic device, including computer, television, phone, tablet, or gaming device; or (iv) any past, present, or future payment for any of the foregoing.
+
+**“Individually identifiable personal information”** is information, including demographic data, that identifies the individual or for which there is a reasonable basis to believe it can be used to identify the individual.  There are two safe-harbor ways to de-identify information; either (1) a formal determination by a qualified statistician, or (2) the removal of specified identifiers of the individual and of the individual’s relatives, household members, and employers is required, and is adequate only if the Covered Entity has no actual knowledge that the remaining information could be used to identify the individual.
+
+# Section 2.  The Disclosure Rule
+
+A Covered Entity must disclose, upon the request of an individual, such PPI and PPI Metadata that relates to the individual as the FTC shall prescribe by regulation.  The FTC shall promulgate regulations specifying the types of PPI, and where appropriate specific PPI data elements, that Covered Entities must provide to individuals upon request.  The FTC shall also specify PPI Metadata, relating to the Covered Entity’s acquisition, use, transfer, and disposition of PPI, that Covered Entities must be provided to individuals upon request.  The FTC shall also establish the methods by which individuals must request and receive PPI and PPI Metadata from Covered Entities, as well as standards to automate such exchanges.  The FTC shall establish de-identification standards that will exempt information from the Disclosure Rule.
+
+# Section 3.  Preemption
+
+In general, State laws that are contrary to the Disclosure Rule are preempted by the federal requirements if it would be impossible for a Covered Entity to comply with both the State and federal requirements.  The Disclosure Rule does not preempt State laws that provide greater privacy protections or privacy rights with respect to protected personal information.
+
+# Section 4.  Enforcement 
+
+The FTC will administer and enforce the Disclosure Rule.  The FTC will seek the cooperation of Covered Entities and may provide technical assistance to help them comply voluntarily with the Disclosure Rule.  Covered Entities that fail to comply voluntarily with the standards may be subject to civil penalties if the Covered Entity knew or should have known of the failure to comply, or if the Covered Entity’s failure to comply was due to willful neglect.
