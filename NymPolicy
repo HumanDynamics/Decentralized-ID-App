@@ -1,52 +1,17 @@
-- Policy on users' display names -
+- Draft Individual Identity and Names Policy -
 
-1. You may use any name that represents you or an entity you are
-authorized to represent.
-
-We prefer that you use a name that you would normally introduce
-yourself as at a party to a friend of a friend — i.e. your display
-name is what someone could actually address you as in person.
-
-You can use your legal name, or it could be a nickname, handle, pseudonym, etc.
-
-You may use a common name that happens to be also used by someone
-else, so long as does not appear to us to be an attempt at
-impersonating the other person.
+1. The System Provider offering this services regards you, the Account Holder using this service, as the authoritative source of information regarding the name or names you designate to identify yourself, subject to the following limitations:
+a) Identity services of Google Business Apps enable  individual accounts and as such is subject to technical constraints such certain technical limites will apply and may change from time to time based upon the upstream service offerings of Google, including limits upon total number of characters permitted for the name fields associated with the profiles and accounts provided;
+b) Names used for the purpose of commiting or aiding the comission of fraud, crime, civil liberties violations or other violations of law are prohibited.
+c) Action or failure to act that creates liability or other risk to the System Provider, account holders, other persons or property, whether legal, operational, market, technical, transactional, reputational or other risks as determined by the System Provider may result in indefinite suspension or termination of an account.
+d) Any person or persons may have and use as many accounts and names as they wish, provided there are sufficient operational and technical resources available, including the number of accounts available and the number or type of fields related to the account profile, other attribute or identifiers available and offered for use.
 
 
-2. Display names may be composed of up to _##_ UTF-8 characters, plus
-numbers. Each name part should be in a single Unicode character set,
-but you can use multiple character sets in the name overall (e.g. for
-a mixed English / Chinese name).
+2. The System Provider regards the right of human beings to anonymity and psuydonymity as important identity-related civic liberties and as such the System Provider seeks to promote and protect the continued access to and free use of these states of identity unless clear and compelling circumstances require or strongly indicate otherwise. 
+a) In order to assist the System Provider in defending identity-related civil liberties, account holders are obligated to report as soon as practiable any software, site, service or system that unduly prohibits, prevents or penalizes the account holder for use of a psudonym comprising the name associated with an account on this system.
+b) In order to assist the System Provider in supporting identity-related civil liberties, account holders are strongly encouraged to nominate any software, site, service or system that represents good practices, beneficial functions or otherwise exhibits business, legal and/or technical excellence or thought leadership related to the use, acceptance or provision of psudonyms.
+c) In order to assist the System Provider in promoting and protecting identity-related civil liberties, account holder are strongly encouraged to provide feedback on the service and to participate in research studies, surveys, usability testing, field studies and other research conducted by this service.
 
-If you use non-Roman characters (e.g. Chinese or Arabic), we'll ask
-you for a Romanized version also, so that international users can
-easily type your name and understand approximately how to pronounce
-it.
-
-Simply decorative symbols that aren't part of the name itself (e.g. ★,
-~~~, !, xxx, etc.) are not allowed.
-
-[Technical note: the name should be entered as a single text field.
-http://www.w3.org/International/questions/qa-personal-names]
-
-
-3. Impersonation dispute:
-
-If someone claims that you are using a name that does not belong to
-you and shows us proof that the name you are using is well established
-elsewhere, we will ask you for some sort of proof that either it is
-your legal name, or that you control a significant presence elsewhere
-under that name.
-
-What proof is needed will depend on the exact circumstances, including
-things like your posting history. Please send the best you have and
-we'll ask if we have further questions.
-
-Impersonation is the only reason we will suspend your profile based on
-your name alone. Please note, however, that your name may contribute
-to an overall claim of abuse (e.g. if your name includes an offensive
-term and your behavior shows that you are harassing other users); this
-however is covered by our [link]abuse policy[/link].
-
-(this policy written by Sai)
+Attribution:
+The current author of this policy is Dazza Greenwood, JD.  
+This draft was inspired by and may never have been created without the initial nym policy written by Sai.
